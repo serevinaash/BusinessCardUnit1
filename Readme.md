@@ -13,12 +13,6 @@ A simple business card app built for Android using Kotlin and Jetpack Compose.
 <img width="142" alt="image" src="https://github.com/user-attachments/assets/59cee29a-8a38-4168-822b-cb58a4290341">
 
 
-## Getting Started
-
-1. Clone the repository ```sh git clone https://github.com/gentildpinto/BusinessCard.git```
-2. Open the project in Android Studio
-3. Build and run the app on an emulator or a device
-
 ## Built With
 
 - [Kotlin](https://kotlinlang.org/) - Programming language
