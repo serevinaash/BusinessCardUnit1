@@ -19,10 +19,6 @@ A simple business card app built for Android using Kotlin and Jetpack Compose.
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) - UI toolkit
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
 ## Acknowledgments
 
 - Inspired by the [Google Codelab on Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
